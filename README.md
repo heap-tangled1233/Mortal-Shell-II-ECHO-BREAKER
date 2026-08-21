@@ -170,8 +170,6 @@ ECHO_BREAKER_v1.0/
 └── Password mortalshell.txt  ← Password reminder (empty file)
 ```
 
-text
-
 ### Step 4: Backup (IMPORTANT!)
 
 Before installing any mods, **create a backup** of your game folder or at minimum these files:
